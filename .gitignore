@@ -1,0 +1,26 @@
+# Go
+backend/tmp/
+*.exe
+*.exe~
+*.test
+*.out
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Env
+.env
+backend/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# MD Files
+CLAUDE.md
